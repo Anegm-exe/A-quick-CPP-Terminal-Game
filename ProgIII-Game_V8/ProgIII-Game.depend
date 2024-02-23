@@ -1,0 +1,686 @@
+# depslib dependency file v1.0
+1699711283 source:d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<string>
+	<sstream>
+	"Ammo.h"
+	"Game.h"
+	"Bazooka.h"
+	"Character.h"
+	"DemolitionHero.h"
+	"GhostMonster.h"
+	"Gun.h"
+	"Hero.h"
+	"Item.h"
+	"MedicHero.h"
+	"Monster.h"
+	"Object.h"
+	"Pistol.h"
+	"Potion.h"
+	"Rifle.h"
+	"TankMonster.h"
+
+1699554878 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game\ammo.h
+	"Item.h"
+
+1699555798 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game\item.h
+	"Object.h"
+
+1699554658 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game\object.h
+
+1699555504 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game\game.h
+	"Object.h"
+	"Hero.h"
+
+1699555748 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game\hero.h
+	"Character.h"
+	"Gun.h"
+
+1699555262 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game\character.h
+	"Object.h"
+
+1699555678 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game\gun.h
+	"Object.h"
+
+1699555082 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game\bazooka.h
+	"Gun.h"
+
+1699555434 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game\demolitionhero.h
+	"Hero.h"
+
+1699555592 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game\ghostmonster.h
+	"Monster.h"
+
+1699555974 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game\monster.h
+	"Character.h"
+
+1699555880 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game\medichero.h
+	"Hero.h"
+
+1699556056 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game\pistol.h
+	"Gun.h"
+
+1699556112 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game\potion.h
+	"Item.h"
+
+1699556172 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game\rifle.h
+	"Gun.h"
+
+1699556216 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game\tankmonster.h
+	"Monster.h"
+
+1699694457 source:c:\users\user\downloads\progiii-game\progiii-game\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	"Ammo.h"
+	"Game.h"
+	"Bazooka.h"
+	"Character.h"
+	"DemolitionHero.h"
+	"GhostMonster.h"
+	"Gun.h"
+	"Hero.h"
+	"Item.h"
+	"MedicHero.h"
+	"Monster.h"
+	"Object.h"
+	"Pistol.h"
+	"Potion.h"
+	"Rifle.h"
+	"TankMonster.h"
+
+1699554877 c:\users\user\downloads\progiii-game\progiii-game\ammo.h
+	"Item.h"
+
+1699555797 c:\users\user\downloads\progiii-game\progiii-game\item.h
+	"Object.h"
+
+1699554657 c:\users\user\downloads\progiii-game\progiii-game\object.h
+
+1699555503 c:\users\user\downloads\progiii-game\progiii-game\game.h
+	"Object.h"
+	"Hero.h"
+
+1699555747 c:\users\user\downloads\progiii-game\progiii-game\hero.h
+	"Character.h"
+	"Gun.h"
+
+1699555262 c:\users\user\downloads\progiii-game\progiii-game\character.h
+	"Object.h"
+
+1699555678 c:\users\user\downloads\progiii-game\progiii-game\gun.h
+	"Object.h"
+
+1699555082 c:\users\user\downloads\progiii-game\progiii-game\bazooka.h
+	"Gun.h"
+
+1699555434 c:\users\user\downloads\progiii-game\progiii-game\demolitionhero.h
+	"Hero.h"
+
+1699555592 c:\users\user\downloads\progiii-game\progiii-game\ghostmonster.h
+	"Monster.h"
+
+1699555974 c:\users\user\downloads\progiii-game\progiii-game\monster.h
+	"Character.h"
+
+1699555880 c:\users\user\downloads\progiii-game\progiii-game\medichero.h
+	"Hero.h"
+
+1699556056 c:\users\user\downloads\progiii-game\progiii-game\pistol.h
+	"Gun.h"
+
+1699556111 c:\users\user\downloads\progiii-game\progiii-game\potion.h
+	"Item.h"
+
+1699556171 c:\users\user\downloads\progiii-game\progiii-game\rifle.h
+	"Gun.h"
+
+1699556216 c:\users\user\downloads\progiii-game\progiii-game\tankmonster.h
+	"Monster.h"
+
+1699710110 source:d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game2\progiii-game\progiii-game\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	"Ammo.h"
+	"Game.h"
+	"Bazooka.h"
+	"Character.h"
+	"DemolitionHero.h"
+	"GhostMonster.h"
+	"Gun.h"
+	"Hero.h"
+	"Item.h"
+	"MedicHero.h"
+	"Monster.h"
+	"Object.h"
+	"Pistol.h"
+	"Potion.h"
+	"Rifle.h"
+	"TankMonster.h"
+
+1699554878 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game2\progiii-game\progiii-game\ammo.h
+	"Item.h"
+
+1699555798 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game2\progiii-game\progiii-game\item.h
+	"Object.h"
+
+1699554658 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game2\progiii-game\progiii-game\object.h
+
+1699555504 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game2\progiii-game\progiii-game\game.h
+	"Object.h"
+	"Hero.h"
+
+1699555748 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game2\progiii-game\progiii-game\hero.h
+	"Character.h"
+	"Gun.h"
+
+1699555262 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game2\progiii-game\progiii-game\character.h
+	"Object.h"
+
+1699555678 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game2\progiii-game\progiii-game\gun.h
+	"Object.h"
+
+1699555082 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game2\progiii-game\progiii-game\bazooka.h
+	"Gun.h"
+
+1699555434 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game2\progiii-game\progiii-game\demolitionhero.h
+	"Hero.h"
+
+1699555592 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game2\progiii-game\progiii-game\ghostmonster.h
+	"Monster.h"
+
+1699555974 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game2\progiii-game\progiii-game\monster.h
+	"Character.h"
+
+1699555880 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game2\progiii-game\progiii-game\medichero.h
+	"Hero.h"
+
+1699556056 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game2\progiii-game\progiii-game\pistol.h
+	"Gun.h"
+
+1699556112 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game2\progiii-game\progiii-game\potion.h
+	"Item.h"
+
+1699556172 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game2\progiii-game\progiii-game\rifle.h
+	"Gun.h"
+
+1699556216 d:\giu\year 2\semster 3\prog iii\project\msi\progiii-game2\progiii-game\progiii-game\tankmonster.h
+	"Monster.h"
+
+1702324414 source:d:\giu\3rd semester\prog iii\project\msi\progiii-game\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<string>
+	<sstream>
+	"Ammo.h"
+	"Game.h"
+	"Bazooka.h"
+	"Character.h"
+	"DemolitionHero.h"
+	"GhostMonster.h"
+	"Gun.h"
+	"Hero.h"
+	"Item.h"
+	"MedicHero.h"
+	"Monster.h"
+	"Object.h"
+	"Pistol.h"
+	"Potion.h"
+	"Rifle.h"
+	"TankMonster.h"
+
+1699554878 d:\giu\3rd semester\prog iii\project\msi\progiii-game\ammo.h
+	"Item.h"
+
+1699555798 d:\giu\3rd semester\prog iii\project\msi\progiii-game\item.h
+	"Object.h"
+
+1702324866 d:\giu\3rd semester\prog iii\project\msi\progiii-game\object.h
+	<iostream>
+
+1699555504 d:\giu\3rd semester\prog iii\project\msi\progiii-game\game.h
+	"Object.h"
+	"Hero.h"
+
+1702325747 d:\giu\3rd semester\prog iii\project\msi\progiii-game\hero.h
+	"Character.h"
+	"Gun.h"
+
+1699555262 d:\giu\3rd semester\prog iii\project\msi\progiii-game\character.h
+	"Object.h"
+
+1702326238 d:\giu\3rd semester\prog iii\project\msi\progiii-game\gun.h
+	"Object.h"
+	<iostream>
+
+1702328572 d:\giu\3rd semester\prog iii\project\msi\progiii-game\bazooka.h
+	"Gun.h"
+
+1702325715 d:\giu\3rd semester\prog iii\project\msi\progiii-game\demolitionhero.h
+	"Hero.h"
+
+1699555592 d:\giu\3rd semester\prog iii\project\msi\progiii-game\ghostmonster.h
+	"Monster.h"
+
+1699555974 d:\giu\3rd semester\prog iii\project\msi\progiii-game\monster.h
+	"Character.h"
+
+1702325690 d:\giu\3rd semester\prog iii\project\msi\progiii-game\medichero.h
+	"Hero.h"
+
+1702328552 d:\giu\3rd semester\prog iii\project\msi\progiii-game\pistol.h
+	"Gun.h"
+
+1699556112 d:\giu\3rd semester\prog iii\project\msi\progiii-game\potion.h
+	"Item.h"
+
+1702329167 d:\giu\3rd semester\prog iii\project\msi\progiii-game\rifle.h
+	"Gun.h"
+
+1699556216 d:\giu\3rd semester\prog iii\project\msi\progiii-game\tankmonster.h
+	"Monster.h"
+
+1702593724 source:d:\giu\3rd semester\prog iii\project\msii\progiii-disasterm2\progiii-disasterm2\progiii-game v3\progiii-game\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<string>
+	<sstream>
+	<iomanip>
+	"Ammo.h"
+	"Game.h"
+	"Bazooka.h"
+	"Character.h"
+	"DemolitionHero.h"
+	"GhostMonster.h"
+	"Gun.h"
+	"Hero.h"
+	"Item.h"
+	"MedicHero.h"
+	"Monster.h"
+	"Object.h"
+	"Pistol.h"
+	"Potion.h"
+	"Rifle.h"
+	"TankMonster.h"
+
+1702593041 d:\giu\3rd semester\prog iii\project\msii\progiii-disasterm2\progiii-disasterm2\progiii-game v3\progiii-game\ammo.h
+	"Item.h"
+
+1702593041 d:\giu\3rd semester\prog iii\project\msii\progiii-disasterm2\progiii-disasterm2\progiii-game v3\progiii-game\item.h
+	"Object.h"
+
+1702593041 d:\giu\3rd semester\prog iii\project\msii\progiii-disasterm2\progiii-disasterm2\progiii-game v3\progiii-game\object.h
+	<iostream>
+
+1702593281 d:\giu\3rd semester\prog iii\project\msii\progiii-disasterm2\progiii-disasterm2\progiii-game v3\progiii-game\game.h
+	"Object.h"
+	"Hero.h"
+
+1702593041 d:\giu\3rd semester\prog iii\project\msii\progiii-disasterm2\progiii-disasterm2\progiii-game v3\progiii-game\hero.h
+	"Character.h"
+	"Gun.h"
+	"Potion.h"
+	"Monster.h"
+
+1702593041 d:\giu\3rd semester\prog iii\project\msii\progiii-disasterm2\progiii-disasterm2\progiii-game v3\progiii-game\character.h
+	"Object.h"
+
+1702593041 d:\giu\3rd semester\prog iii\project\msii\progiii-disasterm2\progiii-disasterm2\progiii-game v3\progiii-game\gun.h
+	"Object.h"
+	<iostream>
+
+1702593041 d:\giu\3rd semester\prog iii\project\msii\progiii-disasterm2\progiii-disasterm2\progiii-game v3\progiii-game\potion.h
+	"Item.h"
+
+1702593041 d:\giu\3rd semester\prog iii\project\msii\progiii-disasterm2\progiii-disasterm2\progiii-game v3\progiii-game\monster.h
+	"Character.h"
+
+1702593041 d:\giu\3rd semester\prog iii\project\msii\progiii-disasterm2\progiii-disasterm2\progiii-game v3\progiii-game\bazooka.h
+	"Gun.h"
+	"Game.h"
+
+1702593041 d:\giu\3rd semester\prog iii\project\msii\progiii-disasterm2\progiii-disasterm2\progiii-game v3\progiii-game\demolitionhero.h
+	"Hero.h"
+
+1702593041 d:\giu\3rd semester\prog iii\project\msii\progiii-disasterm2\progiii-disasterm2\progiii-game v3\progiii-game\ghostmonster.h
+	"Monster.h"
+
+1702593041 d:\giu\3rd semester\prog iii\project\msii\progiii-disasterm2\progiii-disasterm2\progiii-game v3\progiii-game\medichero.h
+	"Hero.h"
+
+1702593041 d:\giu\3rd semester\prog iii\project\msii\progiii-disasterm2\progiii-disasterm2\progiii-game v3\progiii-game\pistol.h
+	"Gun.h"
+
+1702593041 d:\giu\3rd semester\prog iii\project\msii\progiii-disasterm2\progiii-disasterm2\progiii-game v3\progiii-game\rifle.h
+	"Gun.h"
+
+1702593041 d:\giu\3rd semester\prog iii\project\msii\progiii-disasterm2\progiii-disasterm2\progiii-game v3\progiii-game\tankmonster.h
+	"Monster.h"
+
+1702956642 source:d:\giu\3rd semester\prog iii\project\msii\progiii-game v4\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<string>
+	<sstream>
+	<iomanip>
+	"Ammo.h"
+	"Game.h"
+	"Bazooka.h"
+	"Character.h"
+	"DemolitionHero.h"
+	"GhostMonster.h"
+	"Gun.h"
+	"Hero.h"
+	"Item.h"
+	"MedicHero.h"
+	"Monster.h"
+	"Object.h"
+	"Pistol.h"
+	"Potion.h"
+	"Rifle.h"
+	"TankMonster.h"
+
+1702593041 d:\giu\3rd semester\prog iii\project\msii\progiii-game v4\ammo.h
+	"Item.h"
+
+1702593041 d:\giu\3rd semester\prog iii\project\msii\progiii-game v4\item.h
+	"Object.h"
+
+1702950642 d:\giu\3rd semester\prog iii\project\msii\progiii-game v4\object.h
+	<iostream>
+
+1702956666 d:\giu\3rd semester\prog iii\project\msii\progiii-game v4\game.h
+	"Object.h"
+	"Hero.h"
+
+1702952273 d:\giu\3rd semester\prog iii\project\msii\progiii-game v4\hero.h
+	"Character.h"
+	"Gun.h"
+	"Potion.h"
+	"Monster.h"
+
+1702950771 d:\giu\3rd semester\prog iii\project\msii\progiii-game v4\character.h
+	"Object.h"
+
+1702956295 d:\giu\3rd semester\prog iii\project\msii\progiii-game v4\gun.h
+	"Object.h"
+	<iostream>
+
+1702593041 d:\giu\3rd semester\prog iii\project\msii\progiii-game v4\potion.h
+	"Item.h"
+
+1702950781 d:\giu\3rd semester\prog iii\project\msii\progiii-game v4\monster.h
+	"Character.h"
+
+1702956303 d:\giu\3rd semester\prog iii\project\msii\progiii-game v4\bazooka.h
+	"Gun.h"
+	"Game.h"
+
+1702950600 d:\giu\3rd semester\prog iii\project\msii\progiii-game v4\demolitionhero.h
+	"Hero.h"
+
+1702593041 d:\giu\3rd semester\prog iii\project\msii\progiii-game v4\ghostmonster.h
+	"Monster.h"
+
+1702952357 d:\giu\3rd semester\prog iii\project\msii\progiii-game v4\medichero.h
+	"Hero.h"
+
+1702956340 d:\giu\3rd semester\prog iii\project\msii\progiii-game v4\pistol.h
+	"Gun.h"
+
+1702956324 d:\giu\3rd semester\prog iii\project\msii\progiii-game v4\rifle.h
+	"Gun.h"
+
+1702593041 d:\giu\3rd semester\prog iii\project\msii\progiii-game v4\tankmonster.h
+	"Monster.h"
+
+1702998361 source:c:\users\user\downloads\progiii-game_v6\progiii-game v6\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<string>
+	<sstream>
+	<iomanip>
+	"Ammo.h"
+	"Game.h"
+	"Bazooka.h"
+	"Character.h"
+	"DemolitionHero.h"
+	"GhostMonster.h"
+	"Gun.h"
+	"Hero.h"
+	"Item.h"
+	"MedicHero.h"
+	"Monster.h"
+	"Object.h"
+	"Pistol.h"
+	"Potion.h"
+	"Rifle.h"
+	"TankMonster.h"
+
+1702978484 c:\users\user\downloads\progiii-game_v6\progiii-game v6\ammo.h
+	"Item.h"
+
+1702978484 c:\users\user\downloads\progiii-game_v6\progiii-game v6\item.h
+	"Object.h"
+
+1702978485 c:\users\user\downloads\progiii-game_v6\progiii-game v6\object.h
+	<iostream>
+
+1702980415 c:\users\user\downloads\progiii-game_v6\progiii-game v6\game.h
+	"Object.h"
+	"Hero.h"
+
+1702978484 c:\users\user\downloads\progiii-game_v6\progiii-game v6\hero.h
+	"Character.h"
+	"Gun.h"
+	"Potion.h"
+	"Monster.h"
+
+1702978484 c:\users\user\downloads\progiii-game_v6\progiii-game v6\character.h
+	"Object.h"
+
+1702978484 c:\users\user\downloads\progiii-game_v6\progiii-game v6\gun.h
+	"Object.h"
+	<iostream>
+
+1702978485 c:\users\user\downloads\progiii-game_v6\progiii-game v6\potion.h
+	"Item.h"
+
+1702978485 c:\users\user\downloads\progiii-game_v6\progiii-game v6\monster.h
+	"Character.h"
+
+1702978484 c:\users\user\downloads\progiii-game_v6\progiii-game v6\bazooka.h
+	"Gun.h"
+	"Game.h"
+
+1702978484 c:\users\user\downloads\progiii-game_v6\progiii-game v6\demolitionhero.h
+	"Hero.h"
+
+1702978484 c:\users\user\downloads\progiii-game_v6\progiii-game v6\ghostmonster.h
+	"Monster.h"
+
+1702978485 c:\users\user\downloads\progiii-game_v6\progiii-game v6\medichero.h
+	"Hero.h"
+
+1702978485 c:\users\user\downloads\progiii-game_v6\progiii-game v6\pistol.h
+	"Gun.h"
+
+1702978485 c:\users\user\downloads\progiii-game_v6\progiii-game v6\rifle.h
+	"Gun.h"
+
+1702978485 c:\users\user\downloads\progiii-game_v6\progiii-game v6\tankmonster.h
+	"Monster.h"
+
+1703097053 source:d:\giu\3rd semester\prog iii\project\msii\progiii-game_v7\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<string>
+	<sstream>
+	<iomanip>
+	"Ammo.h"
+	"Game.h"
+	"Bazooka.h"
+	"Character.h"
+	"DemolitionHero.h"
+	"GhostMonster.h"
+	"Gun.h"
+	"Hero.h"
+	"Item.h"
+	"MedicHero.h"
+	"Monster.h"
+	"Object.h"
+	"Pistol.h"
+	"Potion.h"
+	"Rifle.h"
+	"TankMonster.h"
+
+1703027473 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v7\ammo.h
+	"Item.h"
+
+1703027473 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v7\item.h
+	"Object.h"
+
+1703027473 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v7\object.h
+	<iostream>
+
+1703076171 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v7\game.h
+	"Object.h"
+	"Hero.h"
+
+1703027473 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v7\hero.h
+	"Character.h"
+	"Gun.h"
+	"Potion.h"
+	"Monster.h"
+
+1703027473 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v7\character.h
+	"Object.h"
+
+1703096854 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v7\gun.h
+	"Object.h"
+	<iostream>
+
+1703027473 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v7\potion.h
+	"Item.h"
+
+1703027473 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v7\monster.h
+	"Character.h"
+
+1703027473 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v7\bazooka.h
+	"Gun.h"
+	"Game.h"
+
+1703027473 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v7\demolitionhero.h
+	"Hero.h"
+
+1703093670 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v7\ghostmonster.h
+	"Monster.h"
+
+1703027473 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v7\medichero.h
+	"Hero.h"
+
+1703027473 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v7\pistol.h
+	"Gun.h"
+
+1703027473 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v7\rifle.h
+	"Gun.h"
+
+1703093656 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v7\tankmonster.h
+	"Monster.h"
+
+1703097053 source:d:\giu\3rd semester\prog iii\project\msii\progiii-game_v8\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<string>
+	<sstream>
+	<iomanip>
+	"Ammo.h"
+	"Game.h"
+	"Bazooka.h"
+	"Character.h"
+	"DemolitionHero.h"
+	"GhostMonster.h"
+	"Gun.h"
+	"Hero.h"
+	"Item.h"
+	"MedicHero.h"
+	"Monster.h"
+	"Object.h"
+	"Pistol.h"
+	"Potion.h"
+	"Rifle.h"
+	"TankMonster.h"
+
+1703027473 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v8\ammo.h
+	"Item.h"
+
+1703027473 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v8\item.h
+	"Object.h"
+
+1703027473 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v8\object.h
+	<iostream>
+
+1703076171 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v8\game.h
+	"Object.h"
+	"Hero.h"
+
+1703027473 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v8\hero.h
+	"Character.h"
+	"Gun.h"
+	"Potion.h"
+	"Monster.h"
+
+1703027473 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v8\character.h
+	"Object.h"
+
+1703096854 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v8\gun.h
+	"Object.h"
+	<iostream>
+
+1703027473 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v8\potion.h
+	"Item.h"
+
+1703027473 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v8\monster.h
+	"Character.h"
+
+1703027473 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v8\bazooka.h
+	"Gun.h"
+	"Game.h"
+
+1703027473 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v8\demolitionhero.h
+	"Hero.h"
+
+1703093670 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v8\ghostmonster.h
+	"Monster.h"
+
+1703027473 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v8\medichero.h
+	"Hero.h"
+
+1703027473 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v8\pistol.h
+	"Gun.h"
+
+1703027473 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v8\rifle.h
+	"Gun.h"
+
+1703093656 d:\giu\3rd semester\prog iii\project\msii\progiii-game_v8\tankmonster.h
+	"Monster.h"
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="Potion.h" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="248" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GhostMonster.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="342" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Bazooka.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="192" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Gun.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="472" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="17804" topLine="602" />
+		</Cursor>
+	</File>
+	<File name="Ammo.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="241" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="MedicHero.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="50" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Pistol.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="169" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="DemolitionHero.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="439" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Rifle.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="165" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Game.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Character.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="433" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Object.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="227" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="TankMonster.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="324" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Hero.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="408" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Item.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="134" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Monster.h" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="302" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
